@@ -69,7 +69,6 @@ When I’m not building workflows or business cases, I’m exploring:
 
 ## 📫 Connect With Me
 - **LinkedIn:** [http://linkedin.com/in/michelle-ferrell-928a9a270]
-- **Portfolio (optional):** Coming soon  
 - **Email:** [06sporty-chief@icloud.com]
 
 ---
