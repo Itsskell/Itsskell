@@ -1,76 +1,114 @@
-# 👋 Hi, I'm Michelle
+# 👋 Hi, I’m Michelle
 
-**Business Development Manager | Microsoft Cloud Strategist | Systems Architect**
+I’m a **platform-minded Full-Stack Engineer** focused on building **scalable, production-ready systems** across modern web and cloud environments.
 
-I build scalable workflows, intelligent business systems, and data‑driven strategies using the Microsoft Cloud. My work sits at the intersection of **Azure AI**, **Dynamics 365**, **M365**, and **strategic business development** — transforming ambiguity into clarity and ideas into operational reality.
-
-I thrive in environments where structure, creativity, and technology meet.
+My work emphasizes **clean architecture, separation of concerns, and long-term maintainability** — systems designed to evolve as teams, products, and requirements grow.
 
 ---
 
-## 🚀 What I’m Focused On
-- Designing **AI‑powered business workflows** using Azure OpenAI, Logic Apps, and Power Platform  
-- Building **strategic business cases**, ROI models, and executive‑ready narratives  
-- Architecting **repeatable systems** that scale across teams and organizations  
-- Exploring **Azure AI, astrobiology, and scientific frameworks** (yes, the Drake Equation included)
+## 🛠️ Tech Stack & Platforms
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
-## 🧩 Core Skills
-- **Microsoft Cloud:** Azure, Dynamics 365, M365, Entra  
-- **AI & Automation:** Azure AI Services, Azure OpenAI, Logic Apps, Power Automate  
-- **Business Strategy:** Financial modeling, ROI analysis, GTM strategy, cross‑functional leadership  
-- **Systems Design:** Workflow architecture, operational clarity, scalable frameworks  
-- **Professional Branding:** ATS‑optimized documentation, executive communication  
+## 🧭 Engineering Focus
+
+- Platform and application architecture
+- Cloud-native system design (Azure & AWS)
+- Performance-first frontend strategies
+- API design and backend services
+- CI/CD pipelines and delivery automation
+- Identity, access, and security fundamentals
+- Designing systems that scale in **complexity**, not just traffic
 
 ---
 
-## 🌟 Featured Projects
+## 🧱 What I Build
 
-### 🔹 **AI‑Driven Business Insights Workflow**
-A demo showing how Azure OpenAI + Logic Apps can automate insight generation from business data.  
-*Tech:* Azure OpenAI, Logic Apps, Blob Storage  
-*Focus:* Intelligent automation, enterprise workflows  
+### 🟦 Platform & Application Foundations
+- **Next.js platform starters** designed for real production systems
+- **Astro-based frontend platforms** with performance-first defaults
+- Clear project structure, extensibility, and maintainable patterns
 
-### 🔹 **ROI & Business Case Calculator**
-A modular financial modeling tool designed for clarity, transparency, and executive‑ready outputs.  
-*Tech:* Python, Excel, Power BI  
-*Focus:* Strategic decision support  
-
-### 🔹 **Dynamics 365 Integration Sample**
-A clean, well‑documented example of integrating D365 data into downstream systems.  
-*Tech:* D365 APIs, Azure Functions  
-*Focus:* Data flows, integration patterns  
-
-### 🔹 **Studio‑Grade Workflow System**
-A showcase of your systems‑thinking approach — reusable frameworks, templates, and architecture diagrams.  
-*Tech:* Markdown, Mermaid, Azure DevOps  
-*Focus:* Operational excellence  
+### 🟩 Backend & Cloud
+- **ASP.NET Core (minimal APIs)** and C#
+- **Microsoft Azure** services and cloud-native patterns
+- **AWS fundamentals** for portable, cloud-agnostic design
+- CI/CD pipelines using **GitHub Actions**
+- Data and services using **Azure Cosmos DB**
+- Identity fundamentals with **Microsoft Entra ID**
 
 ---
 
-## 📚 What You’ll Find Here
-- Real‑world demos  
-- Clean architecture  
-- Executive‑level documentation  
-- Systems thinking in action  
-- Experiments, prototypes, and curiosity‑driven builds  
+## ⭐ Featured Architecture
+
+These projects highlight how I approach **system design, trade-offs, and long-term ownership**.
+
+### 🧩 Platform Architecture (Next.js)
+📐 Diagram:  
+➡️ `/next-platform-starter/docs/architecture-diagram.md`
+
+Focus:
+- Separation of concerns
+- Environment-aware configuration
+- Scalable routing and composition
+- Platform-ready structure for SaaS or internal tools
 
 ---
 
-## 🌌 Fun Side Interests
-When I’m not building workflows or business cases, I’m exploring:  
-- Azure AI and emerging technologies  
-- Scientific rabbit holes  
-- The Drake Equation and astrobiology  
-- How systems shape behavior — in tech, business, and the universe  
+### ⚡ Performance-First Frontend (Astro)
+📐 Diagram:  
+➡️ `/astro-platform-starter/docs/frontend-architecture.md`
+
+Focus:
+- Minimal JavaScript delivery
+- Framework-agnostic design
+- Content / layout / logic boundaries
+- Performance as a first-class concern
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** [http://linkedin.com/in/michelle-ferrell-928a9a270]
-- **Email:** [michelle.ferrell6@icloud.com]
+### 🧠 Engineering & Architecture Approach
+📄 Overview:  
+➡️ `/architecture-approach/README.md`
+
+Focus:
+- Designing for change, not perfection
+- Pragmatic trade-offs over dogma
+- Long-term maintainability
+- Ownership mindset across systems
 
 ---
 
-### ✨ “Clarity is a system — not an accident.”  
+## 📌 Selected Work
+
+- **Next Platform Starter** — production-ready Next.js architecture  
+- **Astro Platform Starter** — performance-first frontend platform  
+- **Architecture & Engineering Approach** — system design philosophy  
+
+(See pinned repositories below 👇)
+
+---
+
+## 🔍 Currently
+
+- 📍 Raleigh, NC
+- 💼 Open to **Full-Stack** and **Platform-leaning Engineering roles**
+- 🏗️ Interested in:
+  - Microsoft / Azure teams
+  - Cloud-native product companies
+  - Consulting & delivery-focused engineering teams
+
+---
+
+## 🤝 Let’s Connect
+
+- **GitHub:** https://github.com/Itsskell  
+- **LinkedIn:** https://linkedin.com/in/yourprofile  
+
+Thanks for stopping by — feel free to explore the code 👋
