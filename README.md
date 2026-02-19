@@ -109,6 +109,6 @@ Focus:
 ## 🤝 Let’s Connect
 
 - **GitHub:** https://github.com/Itsskell  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **LinkedIn:**   http://linkedin.com/in/michelle-ferrell-928a9a270
 
 Thanks for stopping by — feel free to explore the code 👋
