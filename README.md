@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michelle
 
-I’m a **platform-minded Full-Stack Engineer** focused on building **scalable, production-ready systems** across modern web and cloud environments.
+I’m Software Engineer focused on Security Engineering, DevSecOps, Cloud Architecture, and Identity Protection focused on building **scalable, production-ready systems** across modern web and cloud environments.
 
 My work emphasizes **clean architecture, separation of concerns, and long-term maintainability** — systems designed to evolve as teams, products, and requirements grow.
 
