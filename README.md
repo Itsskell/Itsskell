@@ -1,113 +1,65 @@
-# 👋 Hi, I’m Michelle
+# 👋 Hi, I'm Michelle
 
-I’m a Software Engineer focused on Security Engineering, DevSecOps, Cloud Architecture, and Identity Protection, building scalable, maintainable systems for modern web and cloud environments.
-My work emphasizes **clean architecture, separation of concerns, and long-term maintainability** — systems designed to evolve as teams, products, and requirements grow.
+### Security Engineering · Cloud Architecture · DevSecOps · Technical Founder
 
----
+I build secure, maintainable software and cloud platforms—and connect engineering decisions to real business needs.
 
-## 🛠️ Tech Stack & Platforms
+My work spans **application and platform security, identity and access, cloud architecture, backend engineering, and delivery automation**. I bring an ownership mindset to technical work, with experience leading a business and working directly with customers to understand requirements, risks, and outcomes.
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+I'm open to conversations with **engineering teams, recruiters, technical peers, and organizations exploring security or cloud solutions**.
 
 ---
 
-## 🧭 Engineering Focus
+## 🔐 Areas of Focus
 
-- Platform and application architecture
-- Cloud-native system design (Azure & AWS)
-- Performance-first frontend strategies
-- API design and backend services
-- CI/CD pipelines and delivery automation
-- Identity, access, and security fundamentals
-- Designing systems that scale in **complexity**, not just traffic
+- **Security engineering:** Identity and access, Zero Trust principles, threat modeling, and secure application design
+- **DevSecOps:** CI/CD security, software supply-chain integrity, automated testing, and secure development practices
+- **Cloud and platforms:** Azure, AWS, containerized applications, and cloud-native architecture
+- **Software engineering:** C# / .NET, Python, JavaScript / TypeScript, APIs, and SQL
+- **Architecture and delivery:** Practical system design, documentation, maintainability, and risk-informed technical decisions
 
----
+I work with security frameworks and guidance including **NIST SSDF, NIST SP 800-207, and SLSA**.
 
-## 🧱 What I Build
+## 🛠️ Technologies
 
-### 🟦 Platform & Application Foundations
-- **Next.js platform starters** designed for real production systems
-- **Astro-based frontend platforms** with performance-first defaults
-- Clear project structure, extensibility, and maintainable patterns
+**Languages & frameworks:** C#, ASP.NET Core, Python, JavaScript, TypeScript, SQL, Next.js, Astro
 
-### 🟩 Backend & Cloud
-- **ASP.NET Core (minimal APIs)** and C#
-- **Microsoft Azure** services and cloud-native patterns
-- **AWS fundamentals** for portable, cloud-agnostic design
-- CI/CD pipelines using **GitHub Actions**
-- Data and services using **Azure Cosmos DB**
-- Identity fundamentals with **Microsoft Entra ID**
+**Cloud & infrastructure:** Microsoft Azure, AWS, Docker, Kubernetes, PowerShell
+
+**Engineering workflow:** Git, GitHub Actions, REST APIs, automated tests, CI/CD
+
+**Security interests:** Identity protection, Zero Trust, application security, auditability, and software supply-chain security
 
 ---
 
-## ⭐ Featured Architecture
+## 🧱 Selected Public Engineering Work
 
-These projects highlight how I approach **system design, trade-offs, and long-term ownership**.
+### Next Platform Starter
+A Next.js platform foundation focused on separation of concerns, environment-aware configuration, and maintainable application structure.
 
-### 🧩 Platform Architecture (Next.js)
-📐 Diagram:  
-➡️ `/next-platform-starter/docs/architecture-diagram.md`
+### Astro Platform Starter
+A performance-oriented frontend foundation that prioritizes minimal JavaScript delivery and clear content, layout, and logic boundaries.
 
-Focus:
-- Separation of concerns
-- Environment-aware configuration
-- Scalable routing and composition
-- Platform-ready structure for SaaS or internal tools
+### Architecture & Engineering Approach
+Notes on engineering trade-offs, designing for change, and building systems that teams can maintain.
 
----
-
-### ⚡ Performance-First Frontend (Astro)
-📐 Diagram:  
-➡️ `/astro-platform-starter/docs/frontend-architecture.md`
-
-Focus:
-- Minimal JavaScript delivery
-- Framework-agnostic design
-- Content / layout / logic boundaries
-- Performance as a first-class concern
+Explore my [public repositories](https://github.com/Itsskell?tab=repositories) for additional work. Some security and commercial initiatives are private; confidential implementations are not published here.
 
 ---
 
-### 🧠 Engineering & Architecture Approach
-📄 Overview:  
-➡️ `/architecture-approach/README.md`
+## 🤝 Where I Can Add Value
 
-Focus:
-- Designing for change, not perfection
-- Pragmatic trade-offs over dogma
-- Long-term maintainability
-- Ownership mindset across systems
+**For engineering teams and recruiters:** Security engineering, DevSecOps, cloud/platform architecture, full-stack development, and cross-functional technical ownership.
+
+**For businesses and collaborators:** Conversations about identity and application security, cloud modernization, secure software delivery, and practical architecture decisions. Project scope, access, and intellectual property are discussed separately before any engagement.
+
+I value constructive technical challenges, clear communication, and building solutions that hold up outside a demo.
 
 ---
 
-## 📌 Selected Work
+## 📬 Connect
 
-- **Next Platform Starter** — production-ready Next.js architecture  
-- **Astro Platform Starter** — performance-first frontend platform  
-- **Architecture & Engineering Approach** — system design philosophy  
+- **GitHub:** [@Itsskell](https://github.com/Itsskell)
+- **LinkedIn:** [Michelle Ferrell](https://www.linkedin.com/in/michelle-ferrell-928a9a270)
 
-(See pinned repositories below 👇)
-
----
-
-## 🔍 Currently
-
-- 📍 Raleigh, NC
-- 💼 Open to **Full-Stack** and **Platform-leaning Engineering roles**
-- 🏗️ Interested in:
-  - Microsoft / Azure teams
-  - Cloud-native product companies
-  - Consulting & delivery-focused engineering teams
-
----
-
-## 🤝 Let’s Connect
-
-- **GitHub:** https://github.com/Itsskell  
-- **LinkedIn:**   http://linkedin.com/in/michelle-ferrell-928a9a270
-
-Thanks for stopping by — feel free to explore the code 👋
+**Building secure systems. Solving practical problems. Always learning.**
